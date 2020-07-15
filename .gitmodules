@@ -1,0 +1,3 @@
+[submodule "submodule-connector"]
+	path = submodule-connector
+	url = https://github.com/sreejith-m-sreedharan/testrepo.git/submodule-connector
