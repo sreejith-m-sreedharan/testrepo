@@ -1,3 +1,7 @@
 [submodule "submodule-connector"]
 	path = submodule-connector
 	url = https://github.com/sreejith-m-sreedharan/testrepo.git/submodule-connector
+[submodule "testsubrepo"]
+	path = testsubrepo
+	url = https://github.com/sreejith-m-sreedharan/testsubrepo.git
+	branch = master
